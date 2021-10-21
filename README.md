@@ -2,6 +2,8 @@
 To avoid burning your PCB while testing a repaired GPU you can use this adapter
 
 
+
+
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
